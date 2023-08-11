@@ -1,2 +1,9 @@
 # hosted link::https://amit848211.github.io/weeklytest3/
 # repo link::https://github.com/Amit848211/weeklytest3
+![Screenshot 2023-08-11 131210](https://github.com/Amit848211/weeklytest3/assets/111532901/eef7bf3f-1dee-4d5d-bcc6-4b80d52fc38a)
+![Screenshot 2023-08-11 131245](https://github.com/Amit848211/weeklytest3/assets/111532901/7cc07b94-5517-4e9d-b53a-41d3919a8d84)
+![Screenshot 2023-08-11 131324](https://github.com/Amit848211/weeklytest3/assets/111532901/5673fb72-bef6-4a39-a4e9-502024eba0d6)
+![Screenshot 2023-08-11 131401](https://github.com/Amit848211/weeklytest3/assets/111532901/52c28e2c-a9d5-4872-801e-1b252f1337d8)
+![Screenshot 2023-08-11 131439](https://github.com/Amit848211/weeklytest3/assets/111532901/440d8a8c-69b1-4e3f-9663-33036f5135c1)
+![Screenshot 2023-08-11 131549](https://github.com/Amit848211/weeklytest3/assets/111532901/b7adeed5-a14e-419b-893c-bf56012eb6a5)
+![Screenshot 2023-08-11 131512](https://github.com/Amit848211/weeklytest3/assets/111532901/ab699861-b5d6-4f25-90e5-28a3051b90e1)
